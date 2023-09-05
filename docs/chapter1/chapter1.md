@@ -8,7 +8,7 @@ markdown语法代码如下：
 效果如下：
 ![图1.1 我是图片名称](./images/1_1.jpeg)
 
-由于markdown语法无法控制图片的大小，因此有图片缩放需求时可使用html语法，html语法代码如下：
+markdown语法简洁明了，但是其无法控制图片的大小，因此有图片缩放需求时可使用html语法，html语法代码如下：
 ```html
 <div align=center>
 < img width="300" src="./images/1_1.jpeg"/>
