@@ -10,7 +10,7 @@ html代码：
 ```
 效果如下：
 <div align=center>
-< img width="300" src="./images/1_1.jpeg"/>
+<img width="300" src="./images/1_1.jpeg"/>
 </div>
 <div align=center>图1.1 我是图片名称</div>
 
