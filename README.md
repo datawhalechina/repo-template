@@ -1,22 +1,11 @@
 # 项目名称
 
-这里写项目的各类介绍信息，例如：
+*这里写项目的各类介绍信息、背景、动机等内容*
 
-- 项目背景、动机等简介内容
-- 项目内容目录
-- ....
+## 项目受众
 
-## Roadmap
+*注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
 
-*注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
-
-## 参与贡献
-
-- 如果你想参与到项目中来欢迎查看项目的 [Issue]() 查看没有被分配的任务。
-- 如果你发现了一些问题，欢迎在 [Issue]() 中进行反馈🐛。
-- 如果你对本项目感兴趣想要参与进来可以通过 [Discussion]() 进行交流💬。
-
-如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
 
 ## 贡献者名单
 
@@ -27,6 +16,11 @@
 | 小强 | 第2章贡献者 | 小明的朋友 |
 
 *注：表头可自定义，但必须在名单中标明项目负责人*
+## 参与贡献
+
+- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
+- 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
+- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
 
 ## 关注我们
 
