@@ -7,7 +7,14 @@
 *注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
 
 ## 目录
-- 第1章
+- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
+- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
+  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
+  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
+- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
+  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
+    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
+    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
 
 ## 贡献者名单
 
