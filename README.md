@@ -1,7 +1,12 @@
 <h1 align="center"> 项目名称（⚠️ Alpha内测版 / 🧪 Beta公测版） </h1>
-<p align="center"> ⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。 <p>
+
+> [!CAUTION]
+> ⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。
+
 <p align="center"> or <p>
-<p align="center"> 🧪 Beta公测版本提示：教程主体已完成，正在优化细节，欢迎大家提Issue反馈问题或建议。 <p>
+
+> [!WARNING]
+> 🧪 Beta公测版本提示：教程主体已完成，正在优化细节，欢迎大家提Issue反馈问题或建议。
 
 *这里写项目的各类介绍信息、背景、动机等内容*
 
