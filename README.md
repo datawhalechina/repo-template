@@ -15,19 +15,14 @@
 *注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
 
 ## 目录
-*这里写你的项目目录，已完成的部分用添加上跳转链接*
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
+*这里写你的项目目录，及其完成状态，已完成的部分添加上跳转链接*
+
+|  章节名   | 简介 | 状态 |
+|  ----  | ---- | ---- |
+| [第1章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1)  | xxx | ✅ |
+| [第2章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)  | xxx | ✅ |
+| [第3章 xxx](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)  | xxx | ✅ |
+| 第4章  | xxx | 🚧 |
 
 ## 贡献者名单
 
@@ -42,7 +37,7 @@
 ## 参与贡献
 
 - 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
+- 如果你想参与贡献本项目，可以提Pull Request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
 - 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
 
 ## 关注我们
